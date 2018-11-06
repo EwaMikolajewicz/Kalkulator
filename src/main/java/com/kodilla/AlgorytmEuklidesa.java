@@ -1,4 +1,3 @@
-package com.company;
 import static java.lang.Math.*;
 
 class AlgorytmEuklidesa {
