@@ -7,12 +7,12 @@ public class Calculator
     {
         return a+b;
     }
-    /*
+
     public double substractAToB(double a, double b)
     {
         return a-b;
     }
-*/
+
     public double multiplyAByB (double a, double b)
     {
         return a*b;
