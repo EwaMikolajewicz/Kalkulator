@@ -14,6 +14,5 @@ class AlgorytmEuklidesa {
             y = m;
         }
         System.out.println("NWD(" + a + "," + b + ") = " + x);
-        System.out.println("Brawo!!!!");
     }
 }
