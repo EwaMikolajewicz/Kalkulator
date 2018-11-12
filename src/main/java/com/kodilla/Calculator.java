@@ -8,7 +8,7 @@ public class Calculator
         return a+b;
     }
 
-    public double substractAToB(double a, double b)
+    public double subtractAToB(double a, double b)
     {
         return a-b;
     }
@@ -28,7 +28,7 @@ public class Calculator
      Calculator calculator = new Calculator();
 
         System.out.println("a + b = " + calculator.addAToB(3.5, 15));
-        System.out.println("a - b = " + calculator.substractAToB(10.5, 12.5));
+        System.out.println("a - b = " + calculator.subtractAToB(10.5, 12.5));
         System.out.println("a * b = " + calculator.multiplyAByB(12, 12));
         System.out.println("a % b = " + calculator.aModuloB(17, 3));
     }
